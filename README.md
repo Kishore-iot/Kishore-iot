@@ -2,7 +2,7 @@
 
 Hi everyone👋…
 
-*   I am trying to develop my skills in coding .
+*   I am trying to develope my skills in coding .
 
 ## My Skills
 
@@ -19,6 +19,3 @@ Hi everyone👋…
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Kishore-iot&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Kishore-iot&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: johndoe@gmail.com</p>

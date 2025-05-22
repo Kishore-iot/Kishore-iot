@@ -17,5 +17,5 @@ Hi everyone👋…
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Kishore-xo&theme=dark&show_icons=true&count_private=true">
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Kishore-xo&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Kishore-iot&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Kishore-xo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
